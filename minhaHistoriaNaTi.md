@@ -3,7 +3,7 @@
 ## SENTA QUE LA VEM HISTORIA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTczYXhiajhueW9zYzVwdWR5ZXc4ZzA2YXBnd3FuamF4dHB5bGtuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X71Ipcqzm6LzOM5dVj/giphy.gif">
+  <img src="https://media1.tenor.com/m/8yKrA0B9AGUAAAAC/choque-de-cultura-rogerinho.gif">
 </p>
 
 
@@ -56,17 +56,32 @@ Na minha primeira colheita, comprei um notebook, esse lazarento que está abaixo
 
 Se me zoarem por essa parte, vocês não vão para o céu, então vamos lá! Meu irmão tinha livros da Microlins em casa. Se você nasceu depois de 2000, saiba que a Microlins era tipo uma escola que ensinava informática básica. Isso devia estar em todo o Brasil, porque numa cidade que tinha uns 6 mil habitantes, tinha. Eles tinham uns livros que li uma vez por curiosidade, e lá estava: HTML e CSS básico. Aí peguei meu CCE, vulgo "Alenda", e fiz uns códigos usando o Bloco de Notas. Sim, nem sabia o que era IDE, mas sabia o que era programação. Nossa, eu escrevi um site feio de horroroso, só com HTML, e ficava brincando com aquilo. Estava me achando o Hackerman. Nossa quando fiz uma calculadora em javascript nooooooo me senti o proximo bill gates.
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <img src="https://media1.tenor.com/m/we5cvjUWL5wAAAAC/daniel-furlan-furlangifs.gif">
 </p>
 
-## DESCINDO O FUTURO
 
-SE VOCÊ COMO EU NÂO SABIA O QUE QUERIA DA VIDA E TAVA MAIS PERDIDO QUE... ENTÂO VAI AQUI O QUE FUNCIONO PARA MIN
+
+## DESCIDINNDO O FUTURO
+
+SE VOCÊ COMO EU NÂO SABIA O QUE QUERIA DA VIDA E TAVA MAIS PERDIDO QUE... ENTÂO VAI AQUI O QUE FUNCIONOU PARA MIN
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/fKwX_fC7_HYAAAAC/choque-de-cultura-maurilio.gif">
+</p>
 
 Bem, como eu disse, eu não sabia o que queria, mas eu sabia o que não queria. Com certeza não queria trabalhar na roça, pow, serviço desgraçado era isso. 😅 Depois, vendo as possibilidades, era burro demais para uma federal, pobre demais para uma particular e pobre demais para uma faculdade pública. 🤣 Triste, mas assim que funciona. Só tinha uma faculdade em uma cidade próxima, onde eu podia escolher Direito, Arquitetura, Ciências da Computação e umas engenharias lá que nem vêm ao caso citar, e tinha outra com altos cursos de docência e licenciatura, que não é minha praia não. AAAAAAAAAAA, por que não fiz EAD? Sem internet, computador ruim, e sem grana. 😩 Nesse tempo, eu trabalhei na roça, fui garçom, cuidava da chapa de lanche, sei fazer uns lanches top e trava de cachorro de gente rica. 🍔 Fui degustador de café. ☕ As lições que aprendi nesses empregos foram: ódio e por favor, não quero lidar com pessoas nunca mais na vida. 😆 O ser humano tende a ser difícil de lidar quando eles pensam que têm algum poder sobre nós, e geralmente têm. Passei para Direito, pow, mas Direito mexe com gente, aí deu uma pegada. 🤔 Aí, eu poderia fazer ou esperar um ano e tentar de novo. Obviamente, esperei um ano e tentei de novo. Aí, apareceu na minha frente a lindeza a própria, a grande oportunidade de entrar como aluno do FIES em Ciências da Computação. Puts, pegar um empréstimo que era mais do que eu ganhava em 3 anos e ir pra faculdade, caralho, isso era uma merda. 🙃 O FIES merece um parágrafo especial para falar dele.
 
 
+RESUMO DE COISAS QUE NÃO SÃO DA SUA CONTA 🕵️‍♂️
+Bem, eu tenho umas coisas legais sobre o que ocorreu nesse intervalo de tempo. Teve o caso do cara que vendeu a terra que eu trabalhava enquanto eu trabalhava sem eu saber, kkkk. Um belo dia eu estava trabalhando, aí chegaram umas pessoas estranhas. O diálogo foi mais ou menos assim:
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/brgW7J06tygAAAAC/cdc-choque-de-cultura.gif">
+</p>
 
+FACULDADE: FAZER OU NÃO FAZER 🎓
+Olha, se tem oportunidade e está em uma situação parecida, faça! A faculdade vai te dar acesso a um mundo que você jamais terá estudando a distância ou fazendo cursinho pela internet. Conhecer gente, entrar no meio, os professores tendem a ajudar muito, você faz conexões e tem acesso a um mundo totalmente novo, com ótimas oportunidades. E não se enganem, nenhum cursinho de 10 reais vai te dar o conhecimento de 5 anos de faculdade, nem a pal. Não quer dizer que não seja uma boa opção, mas sim, faculdade, o negócio é diferenciado.
+
+E assim, vou contar aqui a maior descoberta de todos os tempos sobre a faculdade, vocês não vão acreditar. Eu estudei com várias pessoas e os caras não sabem, e tem gente velha que ainda não sabe, mas na faculdade você tem que estudar para aprender. Acredita nisso? Aparentemente, se matar todas as aulas possíveis, não estudar e não fazer as coisas, você não aprende. Fica a dica aí. 🤓
 
 AGUARDE AINDA ESTOU ESCREVENDO...
