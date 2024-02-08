@@ -96,6 +96,9 @@ Extras sobre o emprego.
 * Foi meu primeiro emprego de carteira assinada na vida
 * Eu entrei para atender telefone mas construi um sistema que agilizou alguns processos internos
 * Fiz uma integração do erp interno com a api de rede da mikrotik, inclusive pude colaborar com a documentação oficial, foi um ótimo projeto
+* Configurei servidores de DNS
+
+Os conhecimentos de redes e servidores que tive nesse emprego foram muito importantes para minha carreira como DEV, pois me deu um conhecimento que torna a vida do dev melhor e o torna mais eficiente. é importante frisar que esse conhecimento de redes tem na faculdade.
 
 Não posso colocar aqui os códigos mas olhando hoje fiquei impressionado de como meu primeiro projeto foi organizado, e seguindo as psr do php, ainda mais usando php puro e realizando um integração entre sistemas.
 
@@ -107,6 +110,7 @@ Não posso colocar aqui os códigos mas olhando hoje fiquei impressionado de com
 AI SIM VIREI PROGRAMADOR DE VERDADE
 
 Durante meu tempo como programador em uma empresa, inicialmente também atendia clientes, mas posteriormente assumi totalmente como programador. Durante esse período, aprimorei minhas habilidades em diversas tecnologias, como Zend ![Zend](https://img.shields.io/badge/Zend-68B604?style=for-the-badge&logo=zend&logoColor=white), Laravel ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white), PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white), MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) e Grafana ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white). Além disso, fiz a implementação de um servidor Zabbix para melhorar o controle de servidores da empresa. Essa experiência me proporcionou um aprofundamento significativo em desenvolvimento de software e administração de sistemas, preparando-me para desafios mais complexos na área de tecnologia.
+Fiquei por 2 anos e 7 meses e por ser um empresa pequena do interior chegou um momento onde eu precisei de mais, muito pela minha situação de vida me fex ter que ir proucurar novos desafios.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/DspWpyFrPC8AAAAd/choque-de-cultura-maurilio.gif">
@@ -122,9 +126,12 @@ COISAS QUE FIZ NESSE EMPREGO
 * Participei de uma implantação interna de zabbix na empresa, sendo eu mesmo quem configurou servidores e maquinas para rodar, pelo fato de ja ter pre experiência.
 * Notas fiscais
 * Sistemas educacionais
+* aprendi mecher no jaspersoft studio (Nossa como era nada divertido)
 
 <p align="center">
   <img src="https://media1.tenor.com/m/NxAqHkQpkRQAAAAC/choque-de-cultura-applause.gif">
 </p>
+
+
 
 
