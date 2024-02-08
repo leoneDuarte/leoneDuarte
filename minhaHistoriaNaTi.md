@@ -79,7 +79,15 @@ Bem, eu tenho umas coisas legais sobre o que ocorreu nesse intervalo de tempo. T
   <img src="https://media1.tenor.com/m/brgW7J06tygAAAAC/cdc-choque-de-cultura.gif">
 </p>
 
+
+
+
 FACULDADE: FAZER OU NÃO FAZER 🎓
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/ebJwRfDFB0kAAAAC/choque-de.gif">
+</p>
+
 Olha, se tem oportunidade e está em uma situação parecida, faça! A faculdade vai te dar acesso a um mundo que você jamais terá estudando a distância ou fazendo cursinho pela internet. Conhecer gente, entrar no meio, os professores tendem a ajudar muito, você faz conexões e tem acesso a um mundo totalmente novo, com ótimas oportunidades. E não se enganem, nenhum cursinho de 10 reais vai te dar o conhecimento de 5 anos de faculdade, nem a pal. Não quer dizer que não seja uma boa opção, mas sim, faculdade, o negócio é diferenciado.
 
 E assim, vou contar aqui a maior descoberta de todos os tempos sobre a faculdade, vocês não vão acreditar. Eu estudei com várias pessoas e os caras não sabem, e tem gente velha que ainda não sabe, mas na faculdade você tem que estudar para aprender. Acredita nisso? Aparentemente, se matar todas as aulas possíveis, não estudar e não fazer as coisas, você não aprende. Fica a dica aí. 🤓
