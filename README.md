@@ -1,16 +1,38 @@
-### Hi there 👋
+<!-- Seu nome -->
+# Olá, eu sou Leone Duarte! 👋
 
-<!--
-**leoneDuarte/leoneDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Seu slogan -->
+## Desenvolvedor Apaixonado por Tecnologia 🚀
 
-Here are some ideas to get you started:
+<!-- GIF ou imagem animada -->
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre Mim 📝
+- 🎓 Graduado em Ciências da computação;
+- 💻 Apaixonado por programação, especialmente em arquitura de softaware;
+- 🌱 Sempre em busca de aprender e me aprimorar;
+- ⚡ Fun Fact: já fui boia fria.
+
+### Linguagens e Ferramentas 🛠️
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-%234EA94B.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+
+### Estatísticas do GitHub 📊
+![Leone Duarte](https://github-readme-stats.vercel.app/api?username=leoneDuarte&show_icons=true&theme=radical)
+
+### Me encontre por aí 🌍
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leone-duarte-82539b161)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2yC4QG33RdL60TMRy2amaQ)
