@@ -18,7 +18,7 @@ Se quiser o Currículo oficial clica aqui
 
 ![Nasci aqui](images/nasciAqui.jpeg)
 
-Comecei minha jornada na programação há 9 anos. Estaria mentindo se dissesse que era o que sempre quis, visto que aos 15 anos nunca tinha visto uma TV e meu primeiro contato com a internet foi aos 16 anos. Mesmo assim, era um contato esporádico em uma lan house para fazer trabalhos escolares. Sabia pesquisar no Google no máximo. Então, não pense que você está atrasado para alguma coisa. Morar no interior sempre tem suas peculiaridades, porém fui abençoado com aspectos interessantes. Primeiro, na minha casa não existe nenhum tipo de sinal móvel. Temos que andar cerca de 15 minutos para ter um sinal mínimo, e o local torna a instalação de internet inviável. Acredite que já briguei com a empresa de internet pela chance de eles irem lá instalar, mas o local é muito remoto e a internet via satélite é muito cara.
+Comecei minha jornada na programação há 9 anos. Estaria mentindo se dissesse que era o que sempre quis, visto que aos 15 anos nunca tinha visto uma TV e meu primeiro contato com a internet foi aos 16 anos. Mesmo assim, era um contato esporádico em uma lan house para fazer trabalhos escolares. Sabia pesquisar no Google no máximo. Então, não pense que você está atrasado para alguma coisa. Morar no interior sempre tem suas peculiaridades, porém fui abençoado com aspectos interessantes. Primeiro, na minha casa não existe nenhum tipo de sinal móvel. Temos que andar cerca de 15 minutos para ter um sinal mínimo, e o local torna a instalação de internet inviável. Acredite que já briguei com a empresa de internet pela chance de eles irem lá instalar? Mas o local é muito remoto e a internet via satélite é muito cara.
 
 ### MEUS ESTUDOS
 
