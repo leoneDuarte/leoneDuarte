@@ -9,7 +9,7 @@
 
 ### Sobre Mim 📝
 - 🎓 Graduado em Ciências da computação;
-- 💻 Apaixonado por programação, especialmente em arquitura de softaware;
+- 💻 Apaixonado por programação, especialmente em arquitura de software;
 - 🌱 Sempre em busca de aprender e me aprimorar;
 - ⚡ Fun Fact: já fui boia fria.
 
