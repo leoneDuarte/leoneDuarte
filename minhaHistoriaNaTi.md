@@ -25,18 +25,16 @@ Olhando as probabilidades e a lógica, hoje eu estaria trabalhando na roça. Nã
 
 ## PRIMEIRA COLHEITA 🌾
 
-![Comprando o Primeiro Computador - Engraçado](https://media.giphy.com/media/ftvphU8aC5nbm/giphy.gif)
+<img align="center" src="https://media.giphy.com/media/ftvphU8aC5nbm/giphy.gif" alt="GIF">
 
 
 
 Na minha primeira colheita, comprei um notebook, esse lazarento que está abaixo, e por incrível que pareça, ele ainda funciona e está inteiro. Para quem fala mal da cce, está aí o exemplo de guerreiro. Ele custou 700 reais, o que você pode pensar que é pouco, mas para mim custou mais de duas sacas de café. Eu tinha 5 para lidar com as despesas do ano, então era caro. Vinha com Linux e, acredite, eu mexia nele sem internet, porque não tinha. Isso explica minhas habilidades com ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black). Aprendi tudo porque, como não tinha internet nele, eu ficava fuçando e mexendo e aí descobri. Então sim, o primeiro sistema operacional que mexi foi Linux. As poucas vezes que tive contato com Windows na época era na lan house.
 
-![A LENDA O NOTEBBOK](images/onotebooklenda.jpeg)
 
+<img align="center" src="images/onotebooklenda.jpeg" alt="GIF">
 
 ## PRIMEIROS CÓDIGOS
 SE me zoarem por essa parte voc~es não vão para o ceu, então vamos la, meu irmão tinha livros da microlins em casa, se voce nasceu depois de 2000 saiba que a microlins era tipo, uma escola que ensinava informativa basica, isso deve que estava no Brasil todo, pq numa cidade que tinha uns 6mil habitantes tinha, ai eles tinha uns livros que li uma vez por curiosidade e la estava, html e css basico, ai peeguei meu cce, vulgo alenda e fiz uns codigos usando o notes, sim nem sabia o que era ide mas sabia o que era programação, nossa eu escrevi um site feio de horroroso, so com html e ficaba brincando com aquilo, estava me chando o hackerman.
 
-![Aprendendo a Programar](https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif)
-
-
+<img align="center" src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" alt="GIF">
