@@ -9,7 +9,7 @@
 
 ### Sobre Mim 📝
 - 🎓 Graduado em Ciências da computação;
-- 💻 Apaixonado por programação, especialmente em arquitura de software;
+- 💻 Apaixonado por programação, especialmente em arquitetura de software;
 - 🌱 Sempre em busca de aprender e me aprimorar;
 - ⚡ Fun Fact: já fui boia fria.
 
@@ -24,6 +24,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/Scrum-%234EA94B.svg?style=for-the-badge&logo=scrum&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge)
+![Gira](https://img.shields.io/badge/Gira-663399?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
