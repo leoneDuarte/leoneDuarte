@@ -106,4 +106,10 @@ Não posso colocar aqui os códigos mas olhando hoje fiquei impressionado de com
 
 AI SIM VIREI PROGRAMADOR DE VERDADE
 
+Durante meu tempo como programador em uma empresa, inicialmente também atendia clientes, mas posteriormente assumi totalmente como programador. Durante esse período, aprimorei minhas habilidades em diversas tecnologias, como Zend ![Zend](https://img.shields.io/badge/Zend-68B604?style=for-the-badge&logo=zend&logoColor=white), Laravel ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white), PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white), MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) e Grafana ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white). Além disso, fiz a implementação de um servidor Zabbix para melhorar o controle de servidores da empresa. Essa experiência me proporcionou um aprofundamento significativo em desenvolvimento de software e administração de sistemas, preparando-me para desafios mais complexos na área de tecnologia.
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/NxAqHkQpkRQAAAAC/choque-de-cultura-applause.gif">
+</p>
+
 
