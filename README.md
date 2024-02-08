@@ -13,7 +13,7 @@
 - 🌱 Sempre em busca de aprender e me aprimorar;
 - ⚡ Fun Fact: já fui boia fria.
 
-[(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](meusFeitos.md) <span style="background-color: yellow; color: black;">Meus Feitos</span>
+[Meus Feitos](meusFeitos.md)
 
 
 ### Linguagens e Ferramentas 🛠️
