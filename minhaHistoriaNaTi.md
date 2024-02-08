@@ -8,7 +8,11 @@
 
 
 
-Olá, eu sou LEONE DUARTE! 👋 Essa é minha história, e pode não ser boa, mas espero que te faça rir pelo menos.
+Olá, eu sou LEONE DUARTE! 
+
+Se quiser o Currículo oficial clica aqui
+[![Meu Currículo](https://img.shields.io/badge/Meu_Currículo-000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resume.io/r/UVS2WWvrg)
+
 
 ## Sobre Mim
 
