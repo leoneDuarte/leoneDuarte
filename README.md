@@ -13,7 +13,7 @@
 - 🌱 Sempre em busca de aprender e me aprimorar;
 - ⚡ Fun Fact: já fui boia fria.
 
-[Meus Feitos](meusFeitos.md)
+[Meus Feitos](minhaHistoriaNaTi.md)
 
 
 ### Linguagens e Ferramentas 🛠️
