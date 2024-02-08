@@ -41,4 +41,6 @@ Se me zoarem por essa parte, vocês não vão para o céu, então vamos lá! Meu
 ![Aprendendo a Programar](https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif)
 
 
-<img align="center" src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" alt="GIF">
+
+
+AGUARDE AINDA ESTOU ESCREVENDO...
