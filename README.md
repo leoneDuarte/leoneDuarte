@@ -13,6 +13,8 @@
 - 🌱 Sempre em busca de aprender e me aprimorar;
 - ⚡ Fun Fact: já fui boia fria.
 
+[![Ícone Aleatório](https://placekitten.com/200/300)](meusFeitos.md)
+
 ### Linguagens e Ferramentas 🛠️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
