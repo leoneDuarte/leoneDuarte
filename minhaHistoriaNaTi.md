@@ -31,7 +31,7 @@ Olhando as probabilidades e a lógica, hoje eu estaria trabalhando na roça. Nã
 
 Na minha primeira colheita, comprei um notebook, esse lazarento que está abaixo, e por incrível que pareça, ele ainda funciona e está inteiro. Para quem fala mal da cce, está aí o exemplo de guerreiro. Ele custou 700 reais, o que você pode pensar que é pouco, mas para mim custou mais de duas sacas de café. Eu tinha 5 para lidar com as despesas do ano, então era caro. Vinha com Linux e, acredite, eu mexia nele sem internet, porque não tinha. Isso explica minhas habilidades com ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black). Aprendi tudo porque, como não tinha internet nele, eu ficava fuçando e mexendo e aí descobri. Então sim, o primeiro sistema operacional que mexi foi Linux. As poucas vezes que tive contato com Windows na época era na lan house.
 
-![A LENDA O NOTEBBOK](images/onotebboklenda.jpeg)
+![A LENDA O NOTEBBOK](images/onotebooklenda.jpeg)
 
 
 ## PRIMEIROS CÓDIGOS
