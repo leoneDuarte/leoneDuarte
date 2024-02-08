@@ -5,7 +5,7 @@ Olá, eu sou LEONE DUARTE! 👋
 
 ## Sobre Mim
 
-![Minha Jornada](link_para_imagem)
+![Nasci aqui](images/nasciAqui.jpeg)
 
 Comecei minha jornada na programação há [X anos]...
 
