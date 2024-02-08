@@ -1,4 +1,4 @@
-# Minha Jornada na Carreira da Programação
+# CURRICULO NÃO OFICIAL
 
 ## SENTA QUE LA VEM HISTORIA
 
@@ -22,7 +22,6 @@ Comecei minha jornada na programação há 9 anos. Estaria mentindo se dissesse 
   <img src="https://media1.tenor.com/m/36QTgO35zjYAAAAC/choque-de-cultura-maurilio.gif">
 </p
 
-
 Tá, esse é um assunto importante, eu estudei em uma escola que tinha 15 alunos, isso mesmo, o total de alunos da escola era 15, e a escola tinha uma cozinha e dois cômodos, então o contato com o mundo era bem limitado. Fiz todo meu primário ali. ZERO CONTATO COM TECNOLOGIA, INTERNET, NEM COMPUTADOR TINHA LÁ.
 
 ## Mas como conheci a T.I.? 
@@ -44,8 +43,6 @@ Olhando as probabilidades e a lógica, hoje eu estaria trabalhando na roça. Nã
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV6N242dXNmMWU1dnR0c2NqcmFqbzdweWR2bHhlNGp0dG04Y2loYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3x5hjUoXIesM/giphy.gif" alt="GIF">
 </p>
 
-
-
 Na minha primeira colheita, comprei um notebook, esse lazarento que está abaixo, e por incrível que pareça, ele ainda funciona e está inteiro. Para quem fala mal da cce, está aí o exemplo de guerreiro. Ele custou 700 reais, o que você pode pensar que é pouco, mas para mim custou mais de duas sacas de café. Eu tinha 5 para lidar com as despesas do ano, então era caro. Vinha com Linux e, acredite, eu mexia nele sem internet, porque não tinha. Isso explica minhas habilidades com ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black). Aprendi tudo porque, como não tinha internet nele, eu ficava fuçando e mexendo e aí descobri. Então sim, o primeiro sistema operacional que mexi foi Linux. As poucas vezes que tive contato com Windows na época era na lan house.
 
 <p align="center">
@@ -60,7 +57,6 @@ Se me zoarem por essa parte, vocês não vão para o céu, então vamos lá! Meu
 </p>
 
 
-
 ## DESCIDINNDO O FUTURO
 
 SE VOCÊ COMO EU NÂO SABIA O QUE QUERIA DA VIDA E TAVA MAIS PERDIDO QUE... ENTÂO VAI AQUI O QUE FUNCIONOU PARA MIN
@@ -73,11 +69,34 @@ Bem, como eu disse, eu não sabia o que queria, mas eu sabia o que não queria. 
 
 FACULDADE: FAZER OU NÃO FAZER 🎓
 
-Olha, se tem oportunidade e está em uma situação parecida, faça! A faculdade vai te dar acesso a um mundo que você jamais terá estudando a distância ou fazendo cursinho pela internet. Conhecer gente, entrar no meio, os professores tendem a ajudar muito, você faz conexões e tem acesso a um mundo totalmente novo, com ótimas oportunidades. E não se enganem, nenhum cursinho de 10 reais vai te dar o conhecimento de 5 anos de faculdade, nem a pal. Não quer dizer que não seja uma boa opção, mas sim, faculdade, o negócio é diferenciado.
+Olha, se tem oportunidade e está em uma situação parecida, faça! A faculdade vai te dar acesso a um mundo que você jamais terá estudando a distância ou fazendo cursinho pela internet. Conhecer gente, entrar no meio, os professores tendem a ajudar muito, você faz conexões e tem acesso a um mundo totalmente novo, com ótimas oportunidades. E não se enganem, nenhum cursinho de 10 reais vai te dar o conhecimento de 5 anos de faculdade, nem a pal. Não quer dizer que não seja uma boa opção, mas sim, faculdade, o negócio é diferenciado.No meu casi era a única opção a outra era trabalhar na roça ou entrar para o tráfico, então foi fácil de escolher a faculdade.
 
 E assim, vou contar aqui a maior descoberta de todos os tempos sobre a faculdade, vocês não vão acreditar. Eu estudei com várias pessoas e os caras não sabem, e tem gente velha que ainda não sabe, mas na faculdade você tem que estudar para aprender. Acredita nisso? Aparentemente, se matar todas as aulas possíveis, não estudar e não fazer as coisas, você não aprende. Fica a dica aí. 🤓
+
+E sim eu era o aluno chato, que ia quando marcavam de faltar, puts eu viajava 80km para estudar, dois onibus sendo um as 3 da manha, e os cara querendo matar aula pra beber cerveja, ta de sacanagem. Eu ia as vezes, enfima hipocrisia, eu nunca disse que era perfeito.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/ebJwRfDFB0kAAAAC/choque-de.gif">
 </p>
-AGUARDE AINDA ESTOU ESCREVENDO...
+
+DUAS LINHAS PRA O FIES COMO EU PROMETI
+A história do FIES foi o seguinte, as unicas pessoas que acharam isso uma boa decisão foram eu e BANCO DO BRASIL. Que me empresou o dinheiro que estou pagando feliz da vida por sinal, ABRAÇO BANCO DO BRASIL.
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/iVM9mCOlBRIAAAAC/choque-de-cultura.gif">
+</p>
+
+
+
+A CANSEI DE FALAR DA MINHA VIDA< ISSO AI È SO UMAS COISAS QUE QUIS COMPARTILHAR PARA DAR CONTEXTO AO QUE VEM A SEGUIR.
+
+Durante meu tempo como atendente de suporte em uma empresa de internet, mergulhei em um universo multifacetado de aprendizado. Além de lidar com clientes e resolver problemas de conectividade, tive a oportunidade de aprofundar meus conhecimentos em tecnologias como MikroTik ![MikroTik](https://img.shields.io/badge/MikroTik-005FA8?style=for-the-badge&logo=mikrotik&logoColor=white), Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) e MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white). Além disso, aprendi sobre Grafana ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white), Zabbix ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white) e Proxmox. Foi lá que aprendi sobre configuração de redes, administração de sistemas e até mesmo programação. A demanda por soluções internas específicas me incentivou a explorar minha criatividade e habilidades de programação, desenvolvendo ferramentas internas para otimizar processos e aumentar a eficiência operacional da empresa. Essa experiência ampliou significativamente meu conjunto de habilidades e me preparou para desafios futuros na área de tecnologia.
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/2rOeXFJk5J4AAAAC/choque-de-cultura-choque.gif">
+</p>
+
+
+
+
+
