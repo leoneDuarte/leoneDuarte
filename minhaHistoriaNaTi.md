@@ -38,7 +38,7 @@ Olhando as probabilidades e a lógica, hoje eu estaria trabalhando na roça. Nã
 
 **UMA DICA IMPORTANTE:** Caso você chegue numa situação onde você não sabe o que quer da vida, foque no que você não quer fazer, que já ajuda. Enfim, as probabilidades são bem ruins nesse sentido para que eu fosse da tecnologia, sem internet, sem acesso a informação, cidade mais próxima a 12km e só dava para eu ir lá de bicicleta, acredite, eu ia. Eu mentia para os meus pais que ia para igreja, porque assim eles deixavam, mas aí ia para lan house, pow, 1 real a hora, eu ficava até fechar. Às vezes, eu estava na porta da lan house esperando ela abrir domingo de manhã, mas deveria estar na missa, que eu não gostava de ir, por sinal.
 
-## PRIMEIRA COLHEITA 🌾
+## PRIMEIRO NOTEBOOK 🌾
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV6N242dXNmMWU1dnR0c2NqcmFqbzdweWR2bHhlNGp0dG04Y2loYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3x5hjUoXIesM/giphy.gif" alt="GIF">
 </p>
