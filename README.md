@@ -4,9 +4,6 @@
 <!-- Seu slogan -->
 ## Desenvolvedor Apaixonado por Tecnologia 🚀
 
-<!-- GIF ou imagem animada -->
-<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF">
-
 ### Sobre Mim 📝
 - 🎓 Graduado em Ciências da computação;
 - 💻 Apaixonado por programação, especialmente em arquitetura de software;
@@ -30,7 +27,8 @@
 ![Gira](https://img.shields.io/badge/Gira-663399?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-
+![Zend](https://img.shields.io/badge/Zend-68B604?style=for-the-badge&logo=zend&logoColor=white), 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
