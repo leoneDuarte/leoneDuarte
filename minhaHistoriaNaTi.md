@@ -90,13 +90,20 @@ A história do FIES foi o seguinte, as unicas pessoas que acharam isso uma boa d
 
 A CANSEI DE FALAR DA MINHA VIDA< ISSO AI È SO UMAS COISAS QUE QUIS COMPARTILHAR PARA DAR CONTEXTO AO QUE VEM A SEGUIR.
 
-Durante meu tempo como atendente de suporte em uma empresa de internet, mergulhei em um universo multifacetado de aprendizado. Além de lidar com clientes e resolver problemas de conectividade, tive a oportunidade de aprofundar meus conhecimentos em tecnologias como MikroTik ![MikroTik](https://img.shields.io/badge/MikroTik-005FA8?style=for-the-badge&logo=mikrotik&logoColor=white), Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) e MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white). Além disso, aprendi sobre Grafana ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white), Zabbix ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white) e Proxmox. Foi lá que aprendi sobre configuração de redes, administração de sistemas e até mesmo programação. A demanda por soluções internas específicas me incentivou a explorar minha criatividade e habilidades de programação, desenvolvendo ferramentas internas para otimizar processos e aumentar a eficiência operacional da empresa. Essa experiência ampliou significativamente meu conjunto de habilidades e me preparou para desafios futuros na área de tecnologia.
+Durante meu tempo como atendente de suporte em uma empresa de internet, mergulhei em um universo multifacetado de aprendizado. Além de lidar com clientes e resolver problemas de conectividade, tive a oportunidade de aprofundar meus conhecimentos em tecnologias como MikroTik ![MikroTik](https://img.shields.io/badge/MikroTik-005FA8?style=for-the-badge&logo=mikrotik&logoColor=white), Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) e MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white). Além disso, aprendi sobre Grafana ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white), Zabbix ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white) e Proxmox. Foi lá que aprendi sobre configuração de redes, administração de sistemas e até mesmo programação. A demanda por soluções internas específicas me incentivou a explorar minha criatividade e habilidades de programação, desenvolvendo ferramentas internas para otimizar processos e aumentar a eficiência operacional da empresa. Essa experiência ampliou significativamente meu conjunto de habilidades e me preparou para desafios futuros na área de tecnologia. 
+
+Extras sobre o emprego.
+* Foi meu primeiro emprego de carteira assinada na vida
+* Eu entrei para atender telefone mas construi um sistema que agilizou alguns processos internos
+* Fiz uma integração do erp interno com a api de rede da mikrotik, inclusive pude colaborar com a documentação oficial, foi um ótimo projeto
+
+Não posso colocar aqui os códigos mas olhando hoje fiquei impressionado de como meu primeiro projeto foi organizado, e seguindo as psr do php, ainda mais usando php puro e realizando um integração entre sistemas.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/2rOeXFJk5J4AAAAC/choque-de-cultura-choque.gif">
 </p>
 
 
-
+AI SIM VIREI PROGRAMADOR DE VERDADE
 
 
