@@ -35,6 +35,10 @@ Na minha primeira colheita, comprei um notebook, esse lazarento que está abaixo
 <img align="center" src="images/onotebooklenda.jpeg" alt="GIF">
 
 ## PRIMEIROS CÓDIGOS
-SE me zoarem por essa parte voc~es não vão para o ceu, então vamos la, meu irmão tinha livros da microlins em casa, se voce nasceu depois de 2000 saiba que a microlins era tipo, uma escola que ensinava informativa basica, isso deve que estava no Brasil todo, pq numa cidade que tinha uns 6mil habitantes tinha, ai eles tinha uns livros que li uma vez por curiosidade e la estava, html e css basico, ai peeguei meu cce, vulgo alenda e fiz uns codigos usando o notes, sim nem sabia o que era ide mas sabia o que era programação, nossa eu escrevi um site feio de horroroso, so com html e ficaba brincando com aquilo, estava me chando o hackerman.
+
+Se me zoarem por essa parte, vocês não vão para o céu, então vamos lá! Meu irmão tinha livros da Microlins em casa. Se você nasceu depois de 2000, saiba que a Microlins era tipo uma escola que ensinava informática básica. Isso devia estar em todo o Brasil, porque numa cidade que tinha uns 6 mil habitantes, tinha. Eles tinham uns livros que li uma vez por curiosidade, e lá estava: HTML e CSS básico. Aí peguei meu CCE, vulgo "Alenda", e fiz uns códigos usando o Bloco de Notas. Sim, nem sabia o que era IDE, mas sabia o que era programação. Nossa, eu escrevi um site feio de horroroso, só com HTML, e ficava brincando com aquilo. Estava me achando o Hackerman.
+
+![Aprendendo a Programar](https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif)
+
 
 <img align="center" src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" alt="GIF">
