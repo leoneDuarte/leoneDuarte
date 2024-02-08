@@ -19,7 +19,7 @@ Comecei minha jornada na programação há 9 anos. Estaria mentindo se dissesse 
 ### MEUS ESTUDOS
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB5b3AxM3J2ZWllbjhpM201OHNkcWI4NWQ1NzZnaW8xdTMwNW5sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/giphy.gif">
+  <img src="https://media1.tenor.com/m/36QTgO35zjYAAAAC/choque-de-cultura-maurilio.gif">
 </p
 
 
