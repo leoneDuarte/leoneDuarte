@@ -136,6 +136,37 @@ COISAS QUE FIZ NESSE EMPREGO
   <img src="https://media1.tenor.com/m/NxAqHkQpkRQAAAAC/choque-de-cultura-applause.gif">
 </p>
 
+VAMO FALAR DE FREE LANCER
+
+Fiz alguns frellas para poder complementar a renda na epoca, era um forma de conseguir investir no setup e conseguir um extra para melhorar a estrutura, abaixo algumas imagens desse processo, graças a esses trabalhos conseguir montar meu primeiro setup, e efim começar a deslanchar na T.I
+
+
+<p align="center">
+  <img align="center" src="images/pecasdocomputador.jpeg" alt="GIF">
+</p>
+Aqui as peças que comprei, demorei 8 meses para comprar todas as peças, com freela e extras,
 
 
 
+<p align="center">
+  <img align="center" src="images/primeirosetup.jpeg" alt="GIF">
+</p>
+Montei esse setup aqui, comprei um hack nos classificados e uma cadeira no lixo kkk, ai deu de montar para não precisar sentar no chão. Muitos frelas foram feitos nesse setupzin ai, muita grana foi feita. 
+
+<p align="center">
+  <img align="center" src="images/segundosetup.jpeg" alt="GIF">
+</p>
+Com os frelas comprei esse aqui que ja era mais legal e dava para trabalhar varias horas tranquilamente sem dor kk, ja tinha evoluido bastante
+
+
+### OS 10%
+
+Eu criei uma coisa que todo freela que me indicavam eu dava 10% para pessoa que me indicou, isso me gera indicações até hoje, uma vez uma pessoa me disse que a melhor forma de ganhar dinheiro é fazer outras pessoas ganhar dinheiro também, então eu ganhei e dividi e isso me trouxe muita experiencia e muitos repositorios no github.
+<p align="center">
+  <img align="center" src="https://media1.tenor.com/m/zupSR-2flhcAAAAd/cdc-choque.gif" alt="GIF">
+</p>
+
+
+## Atualmente como estamos
+
+Hoje trabalho em uma plataforma de chat node a angular e mongo
