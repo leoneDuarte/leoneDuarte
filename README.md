@@ -10,7 +10,9 @@
 - 🌱 Sempre em busca de aprender e me aprimorar;
 - ⚡ Fun Fact: já fui boia fria.
 
-[Meus Feitos](minhaHistoriaNaTi.md)
+### [![Meu Currículo](https://img.shields.io/badge/Meu_Currículo-000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resume.io/r/UVS2WWvrg)
+
+### [Curriculo com detalhes](minhaHistoriaNaTi.md)
 
 
 ### Linguagens e Ferramentas 🛠️
