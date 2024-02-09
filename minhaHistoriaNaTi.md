@@ -169,4 +169,9 @@ Eu criei uma coisa que todo freela que me indicavam eu dava 10% para pessoa que 
 
 ## Atualmente como estamos
 
-Hoje trabalho em uma plataforma de chat node a angular e mongo
+Hoje trabalho em uma plataforma de chat
+- Node.js: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- Angular: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
