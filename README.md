@@ -8,12 +8,8 @@
 - 🎓 Graduado em Ciências da computação;
 - 💻 Apaixonado por programação, especialmente em arquitetura de software;
 - 🌱 Sempre em busca de aprender e me aprimorar;
-- ⚡ Fun Fact: já fui boia fria.
 
 ### [![Meu Currículo](https://img.shields.io/badge/Meu_Currículo-000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resume.io/r/UVS2WWvrg)
-
-### [Curriculo com detalhes](minhaHistoriaNaTi.md)
-
 
 ### Linguagens e Ferramentas 🛠️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,8 +32,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-### Estatísticas do GitHub 📊
-![Leone Duarte](https://github-readme-stats.vercel.app/api?username=leoneDuarte&show_icons=true&theme=radical)
 
 ### Me encontre por aí 🌍
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leone-duarte-82539b161)
