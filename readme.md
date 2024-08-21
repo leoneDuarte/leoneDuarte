@@ -4,7 +4,7 @@ FERRAMENTAS E HABILIDADES
 
 LINGUAGENS
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,js,php,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,php,ts,java)](https://skillicons.dev)
 
 
 FRAMEWORKS/BLIOTECAS
@@ -17,11 +17,8 @@ BANCOS
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,mongodb)](https://skillicons.dev)
 
 
-FERRAMENTAS DE INFRA 
-
-[![My Skills](https://skillicons.dev/icons?i=docker,gcp,debian,bitbucket,c,cloudflare,heroku)](https://skillicons.dev)
-
-
 FERRAMETAS GERAIS
 
 [![My Skills](https://skillicons.dev/icons?i=redis,git,figma,postman,github,grafana,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,debian,bitbucket,c,cloudflare,heroku)](https://skillicons.dev)
+
