@@ -1,6 +1,3 @@
-FERRAMENTAS E HABILIDADES
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,php,ts,angular,nestjs,mysql,docker,gcp,debian,rabbitmq,redis,figma,laravel,html,css,bootstrap,jquery,bitbucket,bash,c,cloudflare,heroku,postman)](https://skillicons.dev)
 
 LINGUAGENS
 
