@@ -16,6 +16,11 @@ BANCOS
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,mongodb)](https://skillicons.dev)
 
+MESSAGERIA
+
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev) BULLMQ
+
+
 
 FERRAMETAS GERAIS
 
