@@ -21,6 +21,6 @@ MESSAGERIA
 
 FERRAMETAS GERAIS
 
-[![My Skills](https://skillicons.dev/icons?i=redis,git,figma,postman,github,grafana,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,gcp,debian,bitbucket,c,cloudflare,heroku)](https://skillicons.dev)
+#[![My Skills](https://skillicons.dev/icons?i=redis,git,figma,postman,github,grafana,vscode)](https://skillicons.dev)
+#[![My Skills](https://skillicons.dev/icons?i=docker,gcp,debian,bitbucket,c,cloudflare,heroku)](https://skillicons.dev)
 
