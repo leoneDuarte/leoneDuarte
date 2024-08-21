@@ -1,6 +1,6 @@
 FERRAMENTAS E HABILIDADES
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,php,ts,angular,nestjs,mysql,docker,gcp,debian,rabbitmq,bullMq,redis,figma,laravel,html,css,bootstrap,jquery,bitbucket,bash,c,cloudflare,heroku,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,php,ts,angular,nestjs,mysql,docker,gcp,debian,rabbitmq,redis,figma,laravel,html,css,bootstrap,jquery,bitbucket,bash,c,cloudflare,heroku,postman)](https://skillicons.dev)
 
 LINGUAGENS
 
@@ -9,6 +9,12 @@ LINGUAGENS
 FRAMEWORKS/BLIOTECAS
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs,laravel,bootstrap,jquery)](https://skillicons.dev)
+
+
+BANCOS 
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,mongodb)](https://skillicons.dev)
+
 
 FERRAMENTAS DE INFRA 
 
