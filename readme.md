@@ -4,7 +4,7 @@ LINGUAGENS
 [![My Skills](https://skillicons.dev/icons?i=c,js,php,ts,java)](https://skillicons.dev)
 
 
-FRAMEWORKS/BLIOTECAS
+FRAMEWORKS/BIBLIOTECAS
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs,laravel,bootstrap,jquery)](https://skillicons.dev)
 
